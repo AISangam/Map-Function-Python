@@ -1,5 +1,5 @@
 # Map-Function-Python
-## Advantage of Map FunTction:
+## Advantage of Map Function:
 To make you understand how map function saves a lot of time while computing some functions in python please have a look at the following function. I am writing the same function which I am writing in the code to make you synchronized.  
 
 **Please see the arguments of map function**
